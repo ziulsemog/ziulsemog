@@ -12,14 +12,6 @@
 <a href="https://www.linkedin.com/in/luizrobertogomes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<div>
-<a href="https://github.com/ziulsemog">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?ziulsemog&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?ziulsemog&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on DevOps, SysAdmin, Cloud
 - 🌱 I’m currently learning Docker, Kubernets, 
 - 🤔 I’m looking for help with Multi Cloud, Containers
